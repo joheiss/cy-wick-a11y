@@ -1,0 +1,23 @@
+{
+  "name": "cy-wick-a11y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jo Heiss",
+  "license": "ISC",
+  "description": "Cypress with A11y",
+  "dependencies": {
+    "npm": "^11.2.0"
+  },
+  "devDependencies": {
+    "axe-core": "^4.10.3",
+    "cypress": "^14.2.1",
+    "cypress-axe": "^1.6.0",
+    "ts-loader": "^9.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2",
+    "wick-a11y": "^2.0.1"
+  }
+}
